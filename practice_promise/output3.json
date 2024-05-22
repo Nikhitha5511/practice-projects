@@ -1,0 +1,40 @@
+{
+  "Europe": {
+    "Eastern Europe": 4,
+    "Southeast Europe": 9,
+    "Northern Europe": 16,
+    "Southern Europe": 10,
+    "Central Europe": 6,
+    "Western Europe": 8
+  },
+  "Americas": {
+    "North America": 7,
+    "South America": 14,
+    "Caribbean": 28,
+    "Central America": 7
+  },
+  "Africa": {
+    "Eastern Africa": 19,
+    "Western Africa": 17,
+    "Middle Africa": 10,
+    "Northern Africa": 7,
+    "Southern Africa": 6
+  },
+  "Oceania": {
+    "Micronesia": 7,
+    "Polynesia": 10,
+    "Melanesia": 5,
+    "Australia and New Zealand": 5
+  },
+  "Asia": {
+    "Western Asia": 17,
+    "South-Eastern Asia": 11,
+    "Southern Asia": 9,
+    "Central Asia": 5,
+    "Eastern Asia": 8
+  },
+  "Antarctic": {
+    "undefined": 5
+  }
+}
+
