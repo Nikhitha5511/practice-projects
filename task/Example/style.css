@@ -1,0 +1,56 @@
+/* @keyframes example{
+    from{background-color:red;}
+    to{background-color:green;}
+    from{margin-left:30px;}
+    to{margin-left:0}
+}
+.animation-1 h1,h2{
+font-size:18px;
+animation-name:example;
+animation-duration:5s;
+animation-iteration-count: 3;
+animation-timing-function: ease-out;
+width:50px;
+margin-left:30px;
+}
+@keyframes example2{
+    0%{background-color:red;top:0;left:0;}
+    25%{backgroud-color:green;left:100px;top:90px;}
+    50%{background-color:blue;right:200px;top:100px;}
+    70%{background-color:yellow;left:0;top:0}
+}
+.animation-2{
+    width:100px;
+    height:100px;
+    background-color: red;
+    position:relative;
+    animation-name:example2;
+    animation-duration:5s;
+    animation-iteration-count: 3;
+    animation-timing-function: ease-in-out;
+} */
+
+
+
+.carousel-container {
+    width: 100%;
+    height: 300px; /* Adjust height as needed */
+    overflow: hidden;
+    position: relative;
+   
+  }
+  
+  .carousel-item {
+    width: 100%;
+    height: 100%;
+    display: none;
+    display: flex;
+    
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  

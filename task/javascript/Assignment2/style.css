@@ -1,0 +1,50 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#circle {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: green;
+    box-sizing: border-box;
+}
+#inner {
+    background-color: white;
+    position: relative;
+    width: 75px;
+    height: 75px;
+    left: 38px;
+    top: 40px;
+}
+#container div:not(:first-child) {
+    padding: 3px;
+    text-align: center;
+    margin-top: 20px;
+}
+#container div:not(:first-child) {
+    padding: 3px;
+    text-align: center;
+    margin-top: 20px;
+}
+#change-color button{
+    width:130px;
+    height:30px;
+    background-color:#ccc;
+    border:1px solid black;
+    font-weight: bold;
+    border-radius:4px;
+}
+#change-shape button{
+    width:130px;
+    height:30px;
+    background-color:#ccc;
+    border:1px solid black;
+    font-weight: bold;
+    border-radius:4px;
+}
+

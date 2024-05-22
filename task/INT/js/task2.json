@@ -1,0 +1,9 @@
+{"Scooby Doo":[{"id":23,"name":"Daphny","company":"Scooby Doo"},
+{"id":13,"name":"Fred","company":"Scooby Doo"},
+{"id":89,"name":"Welma","company":"Scooby Doo"}],
+"Powerpuff Brigade":[{"id":73,"name":"Buttercup","company":"Powerpuff Brigade"},
+{"id":93,"name":"Blossom","company":"Powerpuff Brigade"},
+{"id":94,"name":"Bubbles","company":"Powerpuff Brigade"}],
+"X-Men":[{"id":92,"name":"Charles Xavier","company":"X-Men"},
+{"id":2,"name":"Xyclops","company":"X-Men"}]
+}
